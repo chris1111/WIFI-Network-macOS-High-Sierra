@@ -12,6 +12,6 @@
 
 ### Follow every steps in the Packages Readme!
 
-Download the Latest Release [Download ➤ WIFI Network macOS High Sierra.zip](https://github.com/chris1111/WIFI-Network-macOS-High-Sierra/releases/tag/VI)
+Download the Latest Release [Download ➤ WIFI Network macOS High Sierra.zip](https://github.com/chris1111/WIFI-Network-macOS-High-Sierra/releases)
 
 
