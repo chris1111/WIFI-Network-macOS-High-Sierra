@@ -1,7 +1,7 @@
 # WIFI-Network-macOS-High-Sierra
 
 ## Release 20 octobre 2017 
-## Reupload today 28 Dec 2017 Because of GitHub problem, sorry!
+## Reupload today 28 Dec 2017:  Because of GitHub problem, sorry!
 
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/112.png)
 
