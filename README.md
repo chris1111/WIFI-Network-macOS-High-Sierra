@@ -1,4 +1,8 @@
-# WIFI-Network-macOS-High-Sierra
+# WIFI-Network-macOS-High-Sierra 
+
+This utility is Update here ➣ [USB-Wireless-Utility](https://github.com/chris1111/USB-Wireless-Utility)
+- Working for 10.6 to 10.14
+
 
 ## Release 20 octobre 2017 
 ## Reupload today 28 Dec 2017:  Because of GitHub problem, sorry!
